@@ -1,0 +1,77 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 1rem;
+    background: color #304f4f; ;
+
+}
+#sailio{
+    border: 10px solid #304f4f;
+    margin: 10px;
+}
+#sisalto {
+    background-color: #304f4f;
+    color: aliceblue;
+    padding: 15px;
+    margin: 10px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1rem;
+}
+h1{
+    font-size: 1.5rem;
+    color: #DDB68A;
+}
+h2{
+    font-size: 2rem;
+    color: #2FF82D;
+}
+h3{
+    font-size: 1.25rem;
+}
+h4{
+    font-size: 1rem;
+}
+h5{
+    font-size: 0.9rem;
+}
+h6{
+    font-size: 0.8rem;
+}
+em{
+    font-style: italic;
+}
+.marked{
+    color: #FFFF00;
+}
+strong{
+    color: #01FFFF;
+    font-weight: bold;
+}
+.small{
+    font-size: 0.7rem;
+    color: #D51916;
+}
+.overlined
+{
+    text-decoration: overline;
+}
+.underlined{
+    text-decoration: underline;
+}
+.subscript{
+    vertical-align: sub;
+}
+.superscript{
+    vertical-align: super;
+}
+
+/*lihanvointi: font-weight: bold
+kursivointi: font-style: italic
+yliviivaus: text-decoration: line-through
+alleviivaus: text-decorarion: underline
+subscript: vertical-aligin: sub (+fonttikon säätö)
+supersubscript: vertical-aligin: super(+ fonttikoon */
